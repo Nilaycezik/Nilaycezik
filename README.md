@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **nilaycezik@gmail.com**
 
-- 📄 Know about my experiences [nilaycezik.github.io](nilaycezik.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
