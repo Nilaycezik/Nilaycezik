@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilay Çezik</h1>
-<h3 align="center">A python developer from Ankara</h3>
+<h3 align="center">Python Developer from Ankara</h3>
 
 - 🌱 I’m currently learning **Django,Selenium**
 
