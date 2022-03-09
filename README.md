@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nilay Çezik</h1>
+<h1 align="center">Hi 👋, I'm Nilay</h1>
 <h3 align="center">Python Developer from Ankara</h3>
 
 - 🌱 I’m currently learning **Django,Selenium**
