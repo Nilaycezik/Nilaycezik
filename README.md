@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilay</h1>
-<h3 align="center">Python Developer from Ankara</h3>
+<h3 align="center">Software Developer from Ankara</h3>
 
 - 🌱 I’m currently learning **Django,Selenium**
 
 - 📝 I regularly write articles on [https://www.techgrisly.com/category/algorithm/](https://www.techgrisly.com/category/algorithm/)
 
-- 💬 Ask me about **Tensorflow,Keras,Scrapy**
+- 💬 Ask me about **Java, Pyhon Keras Library and Web Scrapping**
 
 - 📫 How to reach me **nilaycezik@gmail.com**
 
