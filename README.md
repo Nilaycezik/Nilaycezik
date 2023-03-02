@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilay</h1>
 <h3 align="center">Software Developer from Ankara</h3>
 
-- 🌱 I’m currently learning **Django,Selenium**
+- 🌱 I’m currently learning **Advanced Java**
 
 - 📝 I regularly write articles on [https://www.techgrisly.com/category/algorithm/](https://www.techgrisly.com/category/algorithm/)
 
