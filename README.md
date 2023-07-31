@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://www.techgrisly.com/category/algorithm/](https://www.techgrisly.com/category/algorithm/)
 
-- 💬 Ask me about **Java, Pyhon Keras Library and Web Scrapping**
+- 💬 Ask me about **Java, Python Keras Library and Web Scrapping**
 
 - 📫 How to reach me **nilaycezik@gmail.com**
 
